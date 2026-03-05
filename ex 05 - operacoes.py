@@ -53,4 +53,4 @@ alt = float(input('digite altura da sua parede em metros: '))
 tint = 2 ** 2/1
 a = alt * larg
 res = a * 2 / tint
-print('a área é de: {}, e você precisará de {} latas de tinta!!'.format(a, res))
+print('a área é de: {}, e você precisará de {} latas de tinta!'.format(a, res))
