@@ -1,4 +1,4 @@
-n1 = int(input('um valor: '))
+'''n1 = int(input('um valor: '))
 n2 = int(input('segundo valor: '))
 s = n1 + n2
 m = n1 * n2
@@ -6,10 +6,10 @@ d = n1 / n2
 di = n1 // n2
 e = n1 ** n2
 print('a soma é {} \n o produto é {} \n a divisão é {:.3f}'.format(s, m, d), end='\n ')
-print('a divisão inteira é {} \n e potência é {}'.format(d, e))
+print('a divisão inteira é {} \n e potência é {}'.format(d, e))'''
 
 '''desafio da aula - 01'''
-n1 = int(input('digite seu 1° número: '))
+n1 = int(input('digite seu número: '))
 print('seu antecessor é {} e seu sucessor é {}'.format(n1-1, n1+1))
 
 '''desafio da aula - 02'''
