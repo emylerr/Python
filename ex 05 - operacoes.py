@@ -13,7 +13,7 @@ n1 = int(input('digite seu número: '))
 print('seu antecessor é {} e seu sucessor é {}'.format(n1-1, n1+1))
 
 '''desafio da aula - 02'''
-n1 = int(input('digite seu 1° número: '))
+n1 = int(input('digite 01 número: '))
 r_f = '{:.1f}'.format(n1**(1/2))
 print('o dobro do seu número é de {} o triplo é {}'.format (n1*2, n1*3), end=', ')
 print('a raiz quadrada é {}'.format(r_f))
