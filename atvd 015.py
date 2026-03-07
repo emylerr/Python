@@ -1,0 +1,15 @@
+'''calculadora'''
+n1 = int(input('digite um número da tabuada: '))
+res = n1 * 1
+print('a tabuada desse número é: \n')
+print(f'{n1} x 1 = {res}')
+print(f'{n1} x 2 = {res*2}')
+print(f'{n1} x 3 = {res*3}')
+print(f'{n1} x 4 = {res*4}')
+print(f'{n1} x 5 = {res*5}')
+print(f'{n1} x 6 = {res*6}')
+print(f'{n1} x 7 = {res*7}')
+print(f'{n1} x 8 = {res*8}')
+print(f'{n1} x 9 = {res*9}')
+print(f'{n1} x 10 = {res*10}')
+print('-' * 20)
